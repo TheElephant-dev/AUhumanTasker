@@ -1,0 +1,126 @@
+SKELD TASKS:
+
+	COMMON:
+		Swipe Card
+		Fix wiring (Electrical > Storage > Admin > Navigation > Cafeteria > Security)
+	SHORT:
+		Clean Vent
+		Align Engine Output
+		Calibrate Distributor
+		Clean 02 Filter
+		Clear Asteroids
+		Prime Shields
+		Stabilize steering
+		Unlock Manifolds
+	LONG:
+		Start Reactor
+		Upload data
+		Submit Scan
+		Start Reactor
+		Inspect sample
+		Fuel engines
+
+POLUS TASKS:
+	COMMON:
+		Swipe Card
+		Insert Keys
+		Scan Boarding Pass
+		Fix Wiring (Electrical > O2 > Office > Decontamination > Laboratory (right) > Laboratory (left))
+
+		
+	SHORT:
+		Unlock Manifolds
+		Store Artifacts
+		Repair Drill
+		Record Temperature
+		Monitor Tree
+		Fill Canisters
+		Empty Garbage
+		Clear Asteroids
+		Align Telescope
+		Chart Course
+		Submit Scan
+		Fix Weather Node:
+			Node_CA: Front of lab
+			Node_MLG: Under Lab
+		
+	LONG:
+		Start Reactor
+		Open Waterways
+		Fuel Engines
+		Inspect Sample
+		Reboot Wifi
+		Replace Water Jug
+		Upload Data
+		Fix Weather Node:
+			Node_TB: Under Electrical Cage
+			Node_IRO: Under O2
+			Node_PD: Beside Weapons
+			Node_GI: Infront of Electrical
+		
+		
+
+MIRA TASKS:
+	COMMON:
+		Fix Wiring (Storage > Hallway > Locker Room > Greenhouse > Laboratory)
+		Enter Id Code
+		
+	SHORT:
+		Unlock Manifolds
+		Sort Samples
+		Process Data
+		Prime Shields
+		Fuel Engines
+		Empty Garbage
+		Clean Vent
+		Clean O2 Filter
+		Assemble Artifact
+		Buy Beverage
+		Chart Course
+		Divert Power(only if in lab)
+		Measure Weather
+		Run Diagnostics
+		
+	LONG:
+		Start Reactor
+		Clear Asteroids
+		Water Plants
+		Divert Power(only if not in lab)
+		
+
+AIRSHIP TASKS:
+	COMMON:
+		Fix Wiring (Viewing Deck > Engine Room > Main Hall > Showers > Lounge > Cargo Bay > Meeting Room)
+		Enter Id Code
+		
+	SHORT:
+		Stabilize Steering
+		Sort Records
+		Put Away Rifles
+		Put Away Pistols
+		Polish Ruby
+		Pick Up Towels
+		Make Burger
+		Fix Shower
+		Dress Mannequin
+		Divert Power
+		Decontaminate
+		Clean Vent
+		Clean Toilet
+		Chart Course
+		Calibrate Distributor
+		Download\Upload Data(Armory, Cockpit, Communications, Medical or Viewing Deck)
+		
+	LONG:
+		Start Fans
+		Empty Garbage
+		Develop Photos
+		Fuel Engines
+		Reset Breakers
+		Rewind Tapes
+		Submit Scan
+		Unlock Safe
+		Download\Upload Data(Brig, Cargo Bay, Gap Room, Records or Vault)
+
+		
+	
